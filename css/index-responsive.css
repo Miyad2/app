@@ -1,0 +1,485 @@
+/* `sm` applies to x-small devices (portrait phones, less than 576px)*/
+@media (min-width: 100.98px) {
+
+    h1 {
+        font-size: 26px;
+    }
+
+    h2 {
+        font-size: 23px;
+    }
+
+    h3 {
+        font-size: 21px;
+    }
+
+    h4 {
+        font-size: 19px;
+    }
+
+    h5 {
+        font-size: 17px;
+    }
+
+    h6 {
+        font-size: 15px;
+    }
+
+
+
+    .navbar-toggler:focus, .navbar-toggler:hover {
+        text-decoration: none;
+        outline: none;
+    }
+
+    .bannar-left h2 {
+        font-size: 40px;
+
+    }
+    section.work-section .features-text-heading p {
+        padding: 0px;
+    }
+    section.slider.slider-part .features-text-heading p {
+        padding: 0px;
+    }
+    section.quote-section .features-text-heading{
+        padding: 0px;
+    }
+    section.subscribe-section .features-text-heading{
+        padding: 0px;
+    }
+    section.service-area-section .service-right {
+        display: none;
+    }
+    section.price-section .price-btn {
+        display: flex;
+        justify-content: center;
+    }
+    .team-part-one {
+        margin: 10px 0px;
+    }
+    .footer-item-one {
+        margin: 20px 0px;
+    }
+    .bannar-right {
+        margin: 10px auto;
+    }
+    section.Feature-section .card-section {
+       display: block;
+    }
+    .counter-up {
+        padding: 0px 8px;
+    }
+    section.price-section .price-part {
+        flex-direction: column;
+ 
+    }
+    section.price-section .price-part .content {
+        width: 90%;
+        margin: 10px 0px;
+    }
+
+
+}
+
+
+/* `sm` applies to x-small devices (portrait phones, less than 576px)*/
+@media (min-width: 375.98px) {
+
+    .container {
+        max-width: 450px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    h2 {
+        font-size: 23px;
+    }
+
+    h3 {
+        font-size: 21px;
+    }
+
+    h4 {
+        font-size: 19px;
+    }
+
+    h5 {
+        font-size: 17px;
+    }
+
+    h6 {
+        font-size: 15px;
+    }
+    section.work-section .features-text-heading p {
+        padding: 0px;
+    }
+    section.service-area-bottom-section .service-right-img {
+        margin-top: 30px;
+    }
+    .counter-up {
+        padding: 0px 8px;
+    }
+    .bannar-text {
+        padding-right: 0px;
+    }
+    form.subscribe-form {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .subs-form {
+        margin: 7px 15px;
+        padding: 10px;
+    }
+}
+
+
+
+
+/* `md` applies to small devices (landscape phones, less than 768px)*/
+@media (min-width: 575.98px) {
+
+    .container {
+        max-width: 540px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 27px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    h4 {
+        font-size: 21px;
+    }
+
+    h5 {
+        font-size: 19px;
+    }
+
+    h6 {
+        font-size: 17px;
+    }
+    section.work-section .features-text-heading p {
+        padding: 0px;
+    }
+    .counter-up {
+        padding: 0px 30px;
+    }
+    
+
+
+
+
+
+}
+
+/* `md` applies to small devices (landscape phones, less than 768px)*/
+@media (min-width: 767.98px) {
+
+    .container {
+        max-width: 720px;
+    }
+
+    h1 {
+        font-size: 33px;
+    }
+
+    h2 {
+        font-size: 37px;
+    }
+
+    h3 {
+        font-size: 27px;
+    }
+
+    h4 {
+        font-size: 24px;
+    }
+
+    h5 {
+        font-size: 21px;
+    }
+
+    h6 {
+        font-size: 19px;
+    }
+    .quote {
+        grid-template-columns: repeat(auto-fit, minmax(184px, 1fr));
+    
+    }
+    .bannar-left h2 {
+        font-size: 50px;
+    }
+    .bannar-text{
+        padding: 10px;
+    }
+    .store-buttons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    section.Feature-section .card-part {
+        margin: 4px;
+        height: 365px;
+    }
+    section.service-area-section .service-right {
+        display: none;
+    }
+    section.Feature-section .card-section {
+        display: flex;
+        align-items: center;
+    }
+    section.price-section .price-part {
+        flex-direction: row;
+    }
+    section.price-section .price-part .content {
+        width: 30%;
+        margin: 0px;
+    }
+    .bannar-text {
+        padding-right: 20px;
+    }
+    form.subscribe-form {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+/* `lg` applies to medium devices (tablets, less than 992px)*/
+@media (min-width: 991.98px) {
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+        font-size: 38px;
+    }
+
+    h2 {
+        font-size: 37px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    h4 {
+        font-size: 27px;
+    }
+
+    h5 {
+        font-size: 24px;
+    }
+
+    h6 {
+        font-size: 21px;
+    }
+ 
+    .quote {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+        justify-content: space-between;
+        z-index: 2;
+        justify-items: center;
+        column-gap: 0px;
+        row-gap: 70px;
+    }
+    .quote .box {
+        position: relative;
+        width: 290px;
+        height: 415px;
+    }
+    section.work-section .features-text-heading p {
+        padding: 0px;
+    }
+    section.service-area-section .service-right {
+        display: block;
+    }
+    section.Feature-section .card-part {
+        margin: 20px;
+        height: auto;
+    }
+    section.service-area-bottom-section .order-lg-0 {
+        display: flex;
+        align-items: center;
+    }
+    .counter-up {
+        padding: 0px 60px;
+    }
+    .store-buttons {
+        justify-content: left;
+    }
+    section.available-device-section .store-buttons{
+        justify-content: center;
+    }
+
+
+
+
+}
+
+
+
+/*  `xl` applies to large devices (desktops, less than 1200px) */
+
+@media (min-width: 1199.98px) {
+
+    .container {
+        max-width: 1140px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    h3 {
+        font-size: 31px;
+    }
+
+    h4 {
+        font-size: 28px;
+    }
+
+    h5 {
+        font-size: 25px;
+    }
+
+    h6 {
+        font-size: 23px;
+    }
+    /* .quote .box {
+        position: relative;
+        width: auto;
+        height: 400px;
+    } */
+    section.Feature-section .features-text-heading p {
+        padding: 0px 250px;
+    }
+    section.work-section .features-text-heading p {
+        padding: 0px 250px;
+    }
+    section.slider.slider-part .features-text-heading p {
+        padding: 0px 250px;
+    }
+    section.quote-section .features-text-heading{
+        padding: 0px 250px;
+    }
+    section.faqs .features-text .features-text-heading p{
+        padding: 0px 250px;
+    }
+    section.team-section .features-text .features-text-heading p{
+        padding: 0px 250px;
+    }
+    section.price-section .features-text .features-text-heading p{
+        padding: 0px 250px;
+    }
+    section.subscribe-section .subscribe-part .subscribe-text p{
+        padding: 0px 250px;
+    }
+    section.available-device-section .available-device .available-device-text p{
+        padding: 0px 250px;
+    }
+    .bannar-text {
+        padding-right: 100px;
+    }
+
+
+
+
+}
+
+
+/* `xxl` applies to x-large devices (large desktops, less than 1400px) */
+
+@media (min-width: 1399.98px) {
+
+    .container {
+        max-width: 1320px;
+    }
+
+    h1 {
+        font-size: 45px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    h3 {
+        font-size: 35px;
+    }
+
+    h4 {
+        font-size: 30px;
+    }
+
+    h5 {
+        font-size: 25px;
+    }
+
+    h6 {
+        font-size: 24px;
+    }
+
+    .quote {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        justify-content: space-between;
+        z-index: 2;
+        justify-items: center;
+        column-gap: 70px;
+        row-gap: 70px;
+    }
+    .quote .box {
+        position: relative;
+        width: auto;
+        height: 360px;
+        z-index: 2;
+        grid-row-end: 400px;
+        background: #fff;
+        overflow: hidden;
+        transition: 0.5s;
+        padding: 30px;
+        box-sizing: border-box;
+        box-shadow: -10px 25px 50px rgba(0,0,0,0.2);
+    }
+ 
+
+
+}
+
+
+
+
+
+
+
+
+
