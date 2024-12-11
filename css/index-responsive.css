@@ -334,7 +334,11 @@
     section.available-device-section .store-buttons{
         justify-content: center;
     }
-
+    
+/*     =========New ADD ========== */
+.service-area-bottom-section .service-right-img {
+    width: 60%;
+}
 
 
 
