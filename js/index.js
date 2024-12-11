@@ -105,7 +105,7 @@ $('.team-slider').slick({
       {
         breakpoint: 775,
         settings: {
-          slidesToShow: 1,
+          slidesToShow: 2,
           slidesToScroll: 1
         }
       },
