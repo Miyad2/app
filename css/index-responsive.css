@@ -135,6 +135,67 @@
         margin: 7px 15px;
         padding: 10px;
     }
+
+/*     =++++++++++++++++++++++++++++++++=    */
+.footer-item-one {
+    text-align: center;
+}
+    .footer-social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    section.contact .contact-left {
+    padding-right: 0px;
+    margin-bottom: 50px;
+}
+    section.contact .heading {
+    text-align: center;
+    margin-bottom: 30px;
+}
+form.subscribe-form {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+.subs-form {
+    margin: 10px 0px;
+}
+.store-buttons a img {
+    margin: 10px 0px;
+}
+.faq h4 {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    line-height: 20px;
+}
+    .bannar-text {
+    padding-right: 0px;
+}
+    .store-buttons a img {
+    margin: 10px 0px;
+}
+    .bannar-left h2 {
+        font-size: 35px;
+    }
+.bannar-left {
+    text-align: center;
+}
+.store-buttons {
+    text-align: center;
+}
+    .availabel {
+    text-align: center;
+}
+.value-container {
+    font-size: 30px;
+}
+
+
+
+    
+    
 }
 
 
@@ -176,7 +237,9 @@
     .counter-up {
         padding: 0px 30px;
     }
-    
+
+/*     =++++++++++++++++++++++++++++++++++++++=    */
+  
 
 
 
@@ -257,9 +320,83 @@
 
 
 
+/*     =+++++++++++++++++++++++++++++++++++++++++++++++++= */
+
+section.Feature-section .card-part {
+        margin: 4px;
+        min-height: 315px;
+    }
+    section.Feature-section .card-part {
+    padding: 50px 12px;
+}
+    .service-left {
+    margin-left: 0px;
+}
+.service-right-img {
+    width: 350px;
+}
+    section.price-section .price-part .content {
+    padding: 35px 20px;
+    width: 30%;
+}
 
 
-
+    
+      .footer-item-one {
+    text-align: start;
+}
+.footer-social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+    section.contact .contact-left {
+    padding-right: 84px;
+    margin-bottom: 20px;
+}
+    section.contact .heading {
+    text-align: left;
+    margin-bottom: 0px;
+}
+    form.subscribe-form {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+    .subs-form {
+    margin: 0px 15px;
+}
+.store-buttons a img {
+    width: 180px;
+    height: 70px;
+    margin-right: 20px;
+}
+.faq h4 {
+    font-size: 1rem;
+    line-height: 2.23;
+    font-weight: bold;
+    color: #fff;
+}
+.bannar-text {
+    padding-right: 100px;
+}
+.bannar-left h2 {
+        font-size:40px;
+    }
+.bannar-left {
+    text-align: left;
+}
+.store-buttons {
+    text-align: left;
+}
+.availabel {
+    text-align: left;
+}
+.value-container {
+    font-size: 50px;
+}
+    
+    
 }
 
 
@@ -341,6 +478,24 @@
 }
 
 
+
+    
+/*     =+++++++++++++++++++++++++++++++++++++++++++++++= */
+    section.Feature-section .card-part {
+    padding: 50px 40px;
+}
+    .service-left {
+    margin-left: 90px;
+}
+.service-right-img {
+    width: auto;
+}
+section.price-section .price-part .content {
+    padding: 35px 50px;
+    width: 30%;
+}
+
+    
 
 }
 
