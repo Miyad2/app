@@ -78,6 +78,61 @@
         width: 90%;
         margin: 10px 0px;
     }
+/* +++++++++++++++++++++++++++++++++++++++++ */
+    .footer-item-one {
+    text-align: center;
+}
+    .footer-social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    section.contact .contact-left {
+    padding-right: 0px;
+    margin-bottom: 50px;
+}
+    section.contact .heading {
+    text-align: center;
+    margin-bottom: 30px;
+}
+form.subscribe-form {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+.subs-form {
+    margin: 10px 0px;
+}
+.store-buttons a img {
+    margin: 10px 0px;
+}
+.faq h4 {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    line-height: 20px;
+}
+    .bannar-text {
+    padding-right: 0px;
+}
+    .store-buttons a img {
+    margin: 10px 0px;
+}
+    .bannar-left h2 {
+        font-size: 35px;
+    }
+.bannar-left {
+    text-align: center;
+}
+.store-buttons {
+    text-align: center;
+}
+    .availabel {
+    text-align: center;
+}
+.value-container {
+    font-size: 30px;
+}
 
 
 }
@@ -239,8 +294,12 @@ form.subscribe-form {
     }
 
 /*     =++++++++++++++++++++++++++++++++++++++=    */
-  
-
+  .service-left {
+    margin-left: 0;
+}
+.work-right-arrow i {
+    display: none;
+}
 
 
 
